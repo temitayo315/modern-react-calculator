@@ -41,7 +41,7 @@ input[type="text"] {
   text-align: right;
   font-size: 25px;
   font-weight: bolder;
-  letter-spacing: 1px;git
+  letter-spacing: 1px;
 
 }
 
@@ -65,7 +65,7 @@ input[type="text"] {
 }
 
 button{
-  margin: 5px; 
+  margin: 8px; 
   border:none;
   border-radius: 10px;
   cursor: pointer;
